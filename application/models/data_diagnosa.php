@@ -1,0 +1,1 @@
+<?phpclass Data_diagnosa extends CI_Model {    public function __construct() {        parent::__construct();    }    public function datadiagnosa_model(){               }	 public function nama_penyakit($jenis_penyakit){			 }}

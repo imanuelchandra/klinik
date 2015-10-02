@@ -1,0 +1,22 @@
+## CodeIgniter 2 Framework Files
+## -----------------------------
+
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+*/cache/!.htaccess
+
+## CodeKit Files
+## -----------------------------
+*.codekit
+
+## SASS and Compass Files
+## -----------------------------
+**/.sass-cache/**
+config.rb
+
+## Mac Stuff
+## -----------------------------
+.DS_Store
